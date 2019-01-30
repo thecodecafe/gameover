@@ -1,3 +1,3 @@
 function hello(){
-	return "foo";
+	return "football";
 }
